@@ -8,8 +8,8 @@ body {
 .destination {
   box-sizing: border-box;
   width: 320px;
-  height: 420px;
-  margin-top: 20px auto;
+  height: 450px;
+  margin: 20px auto;
   border: 1px solid #aaa;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
   cursor: pointer;
